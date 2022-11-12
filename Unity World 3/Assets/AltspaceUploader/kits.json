@@ -1,3 +1,37 @@
 {
-    "uploadEntries": []
+    "uploadEntries": [
+        {
+            "AltspaceId": "2133151035462517387",
+            "Name": "New Dungeon Sounds",
+            "IsEnabled": true,
+            "UploadItems": [
+                {
+                    "PrefabFilepath": "Assets/Prefabs/2133151035462517387_new_dungeon_sounds/Haunted 1 fx1.prefab",
+                    "ForAndroid": true,
+                    "ForWin": true,
+                    "ForMac": true
+                },
+                {
+                    "PrefabFilepath": "Assets/Prefabs/2133151035462517387_new_dungeon_sounds/Haunted 2 atmo1.prefab",
+                    "ForAndroid": true,
+                    "ForWin": true,
+                    "ForMac": true
+                },
+                {
+                    "PrefabFilepath": "Assets/Prefabs/2133151035462517387_new_dungeon_sounds/Haunted3 - metalic breath.prefab",
+                    "ForAndroid": true,
+                    "ForWin": true,
+                    "ForMac": true
+                },
+                {
+                    "PrefabFilepath": "Assets/Prefabs/2133151035462517387_new_dungeon_sounds/Haunted 3D.prefab",
+                    "ForAndroid": true,
+                    "ForWin": true,
+                    "ForMac": true
+                }
+            ],
+            "PerPlatformAssets": false,
+            "HideContents": false
+        }
+    ]
 }
