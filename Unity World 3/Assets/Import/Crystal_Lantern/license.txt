@@ -1,0 +1,11 @@
+Model Information:
+* title:	Crystal Lantern
+* source:	https://sketchfab.com/3d-models/crystal-lantern-9066bdfb2fcb498fb1e22d017e95b3ea
+* author:	shotgunbourbon (https://sketchfab.com/shotgunbourbon)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Crystal Lantern" (https://sketchfab.com/3d-models/crystal-lantern-9066bdfb2fcb498fb1e22d017e95b3ea) by shotgunbourbon (https://sketchfab.com/shotgunbourbon) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
