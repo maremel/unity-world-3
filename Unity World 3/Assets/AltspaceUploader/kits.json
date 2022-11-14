@@ -34,6 +34,30 @@
                     "ForAndroid": true,
                     "ForWin": true,
                     "ForMac": true
+                },
+                {
+                    "PrefabFilepath": "Assets/Prefabs/2133151035462517387_new_dungeon_sounds/Crystal_Lantern.prefab",
+                    "ForAndroid": true,
+                    "ForWin": true,
+                    "ForMac": true
+                },
+                {
+                    "PrefabFilepath": "Assets/Prefabs/2133151035462517387_new_dungeon_sounds/Sphere.prefab",
+                    "ForAndroid": true,
+                    "ForWin": true,
+                    "ForMac": true
+                },
+                {
+                    "PrefabFilepath": "Assets/Prefabs/2133151035462517387_new_dungeon_sounds/Wind 1.prefab",
+                    "ForAndroid": true,
+                    "ForWin": true,
+                    "ForMac": true
+                },
+                {
+                    "PrefabFilepath": "Assets/Prefabs/2133151035462517387_new_dungeon_sounds/Wind 2.prefab",
+                    "ForAndroid": true,
+                    "ForWin": true,
+                    "ForMac": true
                 }
             ],
             "PerPlatformAssets": false,
